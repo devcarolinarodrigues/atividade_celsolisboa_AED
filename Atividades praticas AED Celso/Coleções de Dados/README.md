@@ -128,7 +128,7 @@ O programa apresentará no terminal o resultado da busca pelo produto e, em segu
 
 O enunciado original da atividade está disponível neste repositório em formato PDF para consulta.
 
-**Arquivo:** `enunciado.pdf`
+**Arquivo:** `Atividade pratica fase 2.pdf`
 
 ---
 
