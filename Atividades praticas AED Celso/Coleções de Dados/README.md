@@ -1,6 +1,6 @@
-# Atividade Prática 2 — Gerenciando Coleções de Dados
+#  Atividade Prática 2 — Gerenciando Coleções de Dados
 
-## 📚 Disciplina
+##  📚 Disciplina
 
 **Algoritmos e Estrutura de Dados**
 **Faculdade:** Celso Lisboa
